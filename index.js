@@ -22,8 +22,13 @@ function createAnimal(animalType) {
 
    return function (deadlyDevice) {
 
-      'animalType' : animalType,
-      'deadlyDevice' : deadlyDevice
+
+     return {
+       'animalType' : animalType,
+       'deadlyDevice' : deadlyDevice
+     }
+
+  
 
   }
 
