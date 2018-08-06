@@ -21,10 +21,10 @@ function createAnimal(animalType) {
 
 
    (deadlyDevice) => {
-    return {
+  
       'animalType' : animalType,
       'deadlyDevice' : deadlyDevice
-    }
+    
   }
 
   
