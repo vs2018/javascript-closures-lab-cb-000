@@ -38,4 +38,4 @@ function createAnimal(animalType) {
 var sharkCreator = createAnimal('Shark')
 
 var sharkWithFrickinLaserbeam = createAnimal('Shark')
-sharkWithFrickinLaserbeam('Laserbeam')
+var sharkWithFrickinLaserbeam = sharkWithFrickinLaserbeam('Laserbeam')
