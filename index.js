@@ -26,4 +26,6 @@ function createAnimal(animalType) {
       'deadlyDevice' : deadlyDevice
     }
   }
+
+  
 }
